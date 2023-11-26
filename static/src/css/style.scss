@@ -1,0 +1,18 @@
+.draggable {
+  position: absolute;
+
+  width: 25%;
+  min-height: 6.5em;
+  font-size: 1.2rem;
+  font-family: monospace;
+  margin: 1rem 0 0 1rem;
+  background-color: #ffffff94;
+  color: #fd0000;
+  border-radius: 0.75em;
+  padding: 2%;
+  touch-action: none;
+  user-select: none;
+  transform: translate(0px, 0px);
+  box-shadow: rgb(211, 211, 212) 0px 0px 15px;
+
+}
